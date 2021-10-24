@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.top div{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+.top div.home{
+    width: 50%;
+    color: grey;
+    background-color: black;
+    text-align: end;
+    font-size: 15px;
+}
+
+.top div.booking{
+    color: grey;
+    background-color: black;
+    width: 50%;
+    font-size: 15px;
+}
+
+.top div.welcome{
+    color: black;
+    background-color: white;
+    text-transform: uppercase;
+    width: 100%;
+    align-self: center;
+    text-align: center;
+}
+
+.bestdeal{
+    color: rgb(190, 190, 190);
+    text-align: center;
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 15px;
+}
+
+.bestdeal p{
+    padding: 10px;
+}
+
+.bot p{
+    background-color: rgb(153, 153, 153);
+    padding: 4px;
+    
+}
