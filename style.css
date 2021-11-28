@@ -1,97 +1,17 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
-
 .nav{
-    margin: auto;
-    text-align: center;
-    font-family:monospace;
-    width: 100%;
-    font-size: 20px;
-    
-}
-
-.nav ul{
-    background:black;
-    list-style: none;
-    position: relative;
-    display:inline-table;
-    width: 100%;
-    padding: 20px;
-
-}
-
-.nav ul li{
-    float:left;
-}
-
-.nav ul li:hover{
-    background: black ;
-}
-
-.nav ul li:hover a{
-    color:snow;
-}
-.nav ul li a{
-    display: black;
-    padding:20px;
-    color: grey;
-    text-decoration: none;
-    width: 40%;
-}
-
-.jumbotron iframe{
-    width:615px;
-    height:300px;
-    position: relative;
-    left: 30%;
-}
-
-.display-3{
-    text-align: center;
-    font-size:250%;
-    font-family:Tahoma;
-    
-}
-
-.lead{
-    text-align: center;
-
-}
-
-.att{
-
-    font-size:200%;
-    text-align: center;
-    font-family: Tahoma;
-    
-}
-
-.aat{
-
-    text-align:end;
-    column-count: 2;
-    column-fill:auto;
-    
-}
-
-.ln{
-    text-align: center;
-}
-
-.ri{
-    text-align: center;
+    background-color: aqua;
 }
 
 .footer{
-    text-align: center;
+    background: aqua;
+    position: static;
 }
 
-.o{
-    text-align: center;
+.title{
+    background: brown;
 }
 
-.m{
-    color: blue;
-}
